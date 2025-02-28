@@ -1,2 +1,2 @@
-print("new hello")
-print("new line")
+print("new :)")
+print("new banana")
